@@ -1,2 +1,2 @@
-My FIRST step in Jupyter Notebook.
+My FIRST step in JUPYTER NOTEBOOK.
 More to do............
